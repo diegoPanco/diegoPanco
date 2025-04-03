@@ -4,8 +4,12 @@
   </a>
 </div>
 
+##
+
 <p align="center">Hello, my name is Diego, and I am a student of Systems Analysis and Development at Fatec. However, I also studied one year of engineering at UFLA.
 I am interested in both front-end and back-end development, with my main programming languages being Java and Python. I am committed to continuous learning, pushing boundaries, and creating innovative solutions that make a difference.
+
+##
 
 <a href="https://github.com/diegoPanco/github-readme-stats">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=diegoPanco&theme=radical" />
@@ -30,4 +34,12 @@ I am interested in both front-end and back-end development, with my main program
   <a href="https://www.linkedin.com/in/diegopancotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/5513997378494"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+##
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
