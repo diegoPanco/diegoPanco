@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Java, javascript, css, python.
 
 <a href="https://github.com/diegoPanco/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=diegoPanco&theme=radical" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=diegoPanco&theme=radical" />
 </a>
 <a href="https://github.com/diegoPanco/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoPanco&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoPanco&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 
