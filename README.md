@@ -18,6 +18,7 @@ I am interested in both front-end and back-end development, with my main program
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegoPanco&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
+## Programming Languages
 
 <div style= "display: inline_block"><br>
     <img align="center" alt="Diego-Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -28,6 +29,9 @@ I am interested in both front-end and back-end development, with my main program
 </div>
 
 ##
+
+## Connect with me!
+
 
 <div>
   <a href = "mailto:pancottidiego076@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -43,3 +47,7 @@ I am interested in both front-end and back-end development, with my main program
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
