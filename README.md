@@ -7,7 +7,7 @@
 ##
 
 <p align="center">Hello, my name is Diego, and I am a student of Systems Analysis and Development at Fatec. However, I also studied one year of engineering at UFLA.
-I am interested in both front-end and back-end development, with my main programming languages being Java and Python. I am committed to continuous learning, pushing boundaries, and creating innovative solutions that make a difference.
+I am interested in Cybersecurity Red Team and also Blue Team, with my main programming languages being Java and Python. I am committed to continuous learning, pushing boundaries, and creating innovative solutions that make a difference.
 
 ## Github Stats
 
